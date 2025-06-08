@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GokulSaravanan25
 - 👀 I’m interested in Building Information Modelling, Coding, AI
 - 🌱 I’m currently learning Python, Pandas
-- 💞️ I’m looking to collaborate on Linkednin
+- 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me https://www.linkedin.com/in/gokul-saravanan-a56a1912b/
 
 <!---
